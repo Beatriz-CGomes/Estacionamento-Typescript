@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&display=swap');
+
+body {
+     width: 100%;
+    flex-direction: column;
+    background-color: rgb(5, 86, 88);
+	align-items: center;
+	justify-content: center;
+	font-family: 'Quicksand', sans-serif;
+	height: 100vh;
+	margin: 0;
+    margin-left: 150px;
+    margin-right: 250px;
+    margin-top: 300px;
+
+ 
+   
+}
+h1{
+    color: #ff5e00;
+}
+
+input {
+
+    flex-direction: column;
+
+}
+
+
+#cadastrar {
+    align-items: center;
+	justify-content: center;
+
+}
+
+#patio {
+    align-items: center;
+	justify-content: center;
+}
+
+th{
+    align-items: center;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 1.5px;
+    align-items: center;
+    padding-bottom: 1px;
+}
+
+tbody{
+    justify-content: center;
+    align-items: center;
+}
+table{
+    justify-content: center;
+    align-items: center;
+   
+}
+
+button{
+    border-radius: 50px solid;
+    height: 23.4px;
+    color:rgb(5, 86, 88)
+}
